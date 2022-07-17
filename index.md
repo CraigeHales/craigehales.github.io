@@ -22,13 +22,13 @@
 ###### Server Attack - [random visitors](https://community.jmp.com/t5/Uncharted/Web-Logs/ba-p/29389) and [music](https://community.jmp.com/t5/Uncharted/Working-with-WAV-files/ba-p/29469)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pcdyNqlp5xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-###### Annealing (1 of 3) [trilogy](https://community.jmp.com/t5/Leftover-Blogs/Halloween-Trilogy-Annealing/ba-p/28986)
+###### Annealing (1 of 3) [trilogy](https://community.jmp.com/t5/Uncharted/Halloween-Trilogy-all-in-one/ba-p/28574)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-Fjw1wD-Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-###### That's no Moon (2 of 3) [trilogy](https://community.jmp.com/t5/Leftover-Blogs/Halloween-Trilogy-Annealing/ba-p/28986)
+###### That's no Moon (2 of 3) [trilogy](https://community.jmp.com/t5/Uncharted/Halloween-Trilogy-all-in-one/ba-p/28574)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-Cc2NCJV4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-###### Tesselation Dance (3 of 3) [trilogy](https://community.jmp.com/t5/Leftover-Blogs/Halloween-Trilogy-Annealing/ba-p/28986)
+###### Tesselation Dance (3 of 3) [trilogy](https://community.jmp.com/t5/Uncharted/Halloween-Trilogy-all-in-one/ba-p/28574)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Us2SV4oH2Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 ###### [International Space Station - Using a JSON api to track lat/lon](https://community.jmp.com/t5/Uncharted/Space-Station-Video/ba-p/21322)
