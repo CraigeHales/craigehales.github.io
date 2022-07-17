@@ -64,4 +64,5 @@
 ###### Circle Packer - exploring random circles growing until touching
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KAdPHWF8DdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-###### [Fabric Design](https://www.spoonflower.com/profiles/craige?sub_action=designs)
+###### [Fabric Design](https://www.spoonflower.com/profiles/craige?sub_action=designs) I explored bitmaps here for a while
+[Spoonflower designs](/Spoonflower.png)
