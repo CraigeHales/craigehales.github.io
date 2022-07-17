@@ -1,7 +1,7 @@
-## [RedClock](https://github.com/CraigeHales/RedClock)
+#### [RedClock](https://github.com/CraigeHales/RedClock)
+![Red Clock](/RedClock.png)
 
-
-## Peanut Butter and Jelly is a dive into the Mandelbrot set
+#### Peanut Butter and Jelly is a dive into the Mandelbrot set
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8p_FDaG6k_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"> </iframe>
 
 
