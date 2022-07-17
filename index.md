@@ -1,9 +1,9 @@
 ###### [Blog - Lots of JMP scripting language JSL projects](https://community.jmp.com/t5/Uncharted/bg-p/chales-blog)
 [![HandDrawnCircle](/blog.png)](https://community.jmp.com/t5/Uncharted/bg-p/chales-blog)
-<br>
+<br><br>
 ###### [RedClock - An ESP32 + GPS clock](https://github.com/CraigeHales/RedClock)
 [![Red Clock](/RedClock.png)](https://github.com/CraigeHales/RedClock)
-<br>
+<br><br>
 ###### [Peanut Butter and Jelly is a dive into the Mandelbrot set](https://community.jmp.com/t5/Uncharted/Project-file-for-Jelly-Video/ba-p/465068)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8p_FDaG6k_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"> </iframe>
 <br>
