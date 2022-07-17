@@ -66,6 +66,6 @@
 ## Wave - just for fun
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Puihylu4jas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##Circle Packer - exploring random circles growing until touching
+## Circle Packer - exploring random circles growing until touching
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KAdPHWF8DdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
