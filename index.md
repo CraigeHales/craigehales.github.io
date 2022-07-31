@@ -66,3 +66,15 @@
 <br>
 ###### [Fabric Design - I explored bitmaps here for a while](https://www.spoonflower.com/profiles/craige?sub_action=designs)
 [![Spoonflower designs](/Spoonflower.png)](https://www.spoonflower.com/profiles/craige?sub_action=designs)
+<br>
+<span id="visits"></span>
+
+
+<script>
+  const xhttp = new XMLHttpRequest();
+  xhttp.onload = function() {
+    document.getElementById('visits').innerText = this.responseText;
+    }
+  xhttp.open("GET", "https://api.countapi.xyz/hit/drawoutside.com/visits", true);
+  xhttp.send();
+</script>
