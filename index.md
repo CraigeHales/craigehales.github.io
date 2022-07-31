@@ -67,7 +67,7 @@
 ###### [Fabric Design - I explored bitmaps here for a while](https://www.spoonflower.com/profiles/craige?sub_action=designs)
 [![Spoonflower designs](/Spoonflower.png)](https://www.spoonflower.com/profiles/craige?sub_action=designs)
 <br><br><br>
-<span id="visits"></span> ...thanks [countapi](https://countapi.xyz/)
+<span id="visits">no count</span> ...thanks [countapi](https://countapi.xyz/)
 
 
 <script>
