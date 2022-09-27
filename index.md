@@ -68,9 +68,9 @@
 [![Spoonflower designs](/Spoonflower.png)](https://www.spoonflower.com/profiles/craige?sub_action=designs)
 <br><br><br>
 ###### My First Project
-[Yellow TTY paper](/PrimesHead.png)]
+[Yellow TTY paper](/PrimeHead.png)]
 No password? And the UserID was for the whole classroom! As soon as the machine said HELLO and started asking me questions, I was hooked. This was my first program, and the last one that ran the first time. I'd talked the teacher into letting me use the TTYs when I realized what my buddies were up to. Lance didn't think the code would work. He contributed the semicolon. John suggested some optimizations later. The machine was a GE235, timeshared from the Continental Life Insurance building in Raleigh. BAS selected the Dartmouth Basic interpreter. Maximum program size was 6K bytes. Fortran, Lisp, and Algol 60 were also available. We never figured out how to use Lisp or Algol, but the Fortran experience saved me a few university hours. Here's the full run.
-[Yellow TTY paper](/PrimesTail.png)]
+[Yellow TTY paper](/PrimeTail.png)]
 BYE was the signoff command, then hang up the telephone from the accoustic coupler.
 <br><br><br>
 <span id="visits">no count</span> ...thanks [countapi](https://countapi.xyz/)
