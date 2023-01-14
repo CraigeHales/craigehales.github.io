@@ -66,6 +66,8 @@
 <br>
 ###### [Fabric Design - I explored bitmaps here for a while](https://www.spoonflower.com/profiles/craige?sub_action=designs)
 [![Spoonflower designs](/Spoonflower.png)](https://www.spoonflower.com/profiles/craige?sub_action=designs)
+<br>
+###### [Resistors](/resistors.html)
 <br><br><br>
 ###### My First Project
 I talked the teacher into letting me use the TTYs when I realized what my buddies were up to. I took the manual home Monday and came back Tuesday with this.
