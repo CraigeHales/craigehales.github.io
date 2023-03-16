@@ -66,7 +66,7 @@
 <br>
 ###### [Fabric Design - I explored bitmaps here for a while](https://www.spoonflower.com/profiles/craige?sub_action=designs)
 [![Spoonflower designs](/Spoonflower.png)](https://www.spoonflower.com/profiles/craige?sub_action=designs)
-<br>
+<br><br><br>
 ###### [Resistors](/resistors.html)
 <br><br><br>
 ###### My First Project
