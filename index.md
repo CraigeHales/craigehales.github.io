@@ -76,14 +76,6 @@ No password? And the UserID was for the whole classroom! As soon as the machine 
 ![Yellow TTY paper last part of listing](/PrimeTail.png)
 BYE was the signoff command, then hang up the telephone from the acoustic coupler.
 <br><br><br>
-<span id="visits">no count</span> ...thanks [countapi](https://countapi.xyz/)
 
 
-<script>
-  const xhttp = new XMLHttpRequest();
-  xhttp.onload = function() {
-    document.getElementById('visits').innerText = this.responseText;
-    }
-  xhttp.open("GET", "https://api.countapi.xyz/hit/drawoutside.com/visits", true);
-  xhttp.send();
-</script>
+[![Hits](https://hits.sh/drawoutside.com/hits.svg)](https://hits.sh/drawoutside.com/hits/)
