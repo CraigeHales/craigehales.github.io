@@ -68,7 +68,7 @@
 [![Spoonflower designs](/Spoonflower.png)](https://www.spoonflower.com/profiles/craige?sub_action=designs)
 <br><br><br>
 ###### [Resistors](/resistors.html)
-<br><br><br>
+<br>
 ###### [Cloudflare Speedtest](https://speed.cloudflare.com/)
 <br><br><br>
 ###### My First Project
