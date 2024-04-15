@@ -381,7 +381,9 @@
 <br>
 ###### [Arduino](https://community.jmp.com/t5/Uncharted/Arduino/ba-p/21310)
 <br>
-###### [Cloudflare Speedtest](https://speed.cloudflare.com/)
+###### [External - Cloudflare Speedtest](https://speed.cloudflare.com/)
+<br>
+###### [External - ASCII Block Letter Generator](https://patorjk.com/software/taag/#p=display&f=Big&t=Type%20Something%20)
 <br><br><br>
 ###### My First Project
 I talked the teacher into letting me use the TTYs when I realized what my buddies were up to. I took the manual home Monday and came back Tuesday with this.
