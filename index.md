@@ -392,6 +392,7 @@ No password? And the UserID was for the whole classroom! As soon as the machine 
 ![Yellow TTY paper last part of listing](/PrimeTail.png)
 BYE was the signoff command, then hang up the telephone from the acoustic coupler.
 <br>
+<br>
 [BII was the Basic Interim Improvement, found some references here](https://digitalcommons.wofford.edu/do/search/?q=bii&start=0&context=4239565&facet=)
 <br>
 [Wikipedia Dartmouth Basic](https://en.wikipedia.org/wiki/Dartmouth_BASIC)
