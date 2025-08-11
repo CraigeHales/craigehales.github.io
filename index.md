@@ -398,6 +398,8 @@ BYE was the signoff command, then hang up the telephone from the acoustic couple
 [Wikipedia Dartmouth Basic](https://en.wikipedia.org/wiki/Dartmouth_BASIC)
 <br>
 [Wikipedia Dartmouth Time Sharing](https://en.wikipedia.org/wiki/Dartmouth_Time-Sharing_System)
+<br>
+[Call-A-Computer Lisp](https://www.softwarepreservation.org/projects/LISP/lisp15_ge635_dartmouth/Call-A-Computer-LISP-1969.pdf)
 <br><br><br>
 
 
