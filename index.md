@@ -391,6 +391,10 @@ I talked the teacher into letting me use the TTYs when I realized what my buddie
 No password? And the UserID was for the whole classroom! As soon as the machine said HELLO and started asking me questions, I was hooked. This was my first program, and the last one that ran the first time. When it asked me for a name for the new program, Lance said I could call it anything, and suggested Ralph as an example of a name. Lance didn't think the code would work, but contributed the semicolon when we saw how much paper we were using. John suggested some optimizations later. The machine was a GE235, timeshared from the Continental Life Insurance building in Raleigh. BAS selected the Dartmouth Basic interpreter. Maximum program size was 6K bytes. Fortran, Lisp, and Algol 60 were also available. We never figured out how to use Lisp or Algol, but the Fortran experience saved me a few university hours. Here's the full run.
 ![Yellow TTY paper last part of listing](/PrimeTail.png)
 BYE was the signoff command, then hang up the telephone from the acoustic coupler.
+<br>
+[BII was the Basic Interim Improvement, found some references here](https://digitalcommons.wofford.edu/do/search/?q=bii&start=0&context=4239565&facet=)
+[Wikipedia Dartmouth Basic](https://en.wikipedia.org/wiki/Dartmouth_BASIC)
+[Wikipedia Dartmouth Time Sharing](https://en.wikipedia.org/wiki/Dartmouth_Time-Sharing_System)
 <br><br><br>
 
 
